@@ -4,7 +4,6 @@ list = [
 "https://www.indiexpo.net/embed/solar-lunar-eclipse",
 "https://www.indiexpo.net/embed/bubble-pop",
 "https://www.indiexpo.net/embed/trivial-anime",
-"https://www.indiexpo.net/embed/trivial-movies",
 "https://www.indiexpo.net/embed/space-jump",
 "https://www.indiexpo.net/embed/can-he-save-everyone",
 "https://www.indiexpo.net/embed/koobyky",
